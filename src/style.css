@@ -1,0 +1,7 @@
+body {
+  height: 100%;
+  background: linear-gradient(70deg, blue, pink) no-repeat;
+  background-repeat: no-repeat;
+  margin-top: 300px;
+  margin-left: 40%;
+}
